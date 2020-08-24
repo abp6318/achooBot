@@ -1,0 +1,17 @@
+{
+  "name": "lolchessscraper",
+  "version": "1.0.0",
+  "description": "Scrapes lolchess for rank and other info",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "author": "Aaron Putterman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1",
+    "node": "^14.8.0"
+  }
+}
